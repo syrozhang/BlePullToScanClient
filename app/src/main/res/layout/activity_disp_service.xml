@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_blue">
+
+    <include layout="@layout/include_titlebar"/>
+
+    <View
+        android:id="@+id/view_ble_con_status_line"
+        android:layout_marginTop="48dp"
+        android:layout_width="match_parent"
+        android:background="#FF0000"
+        android:layout_height="2dp"/>
+
+    <FrameLayout
+        android:id="@+id/framelayout"
+        android:layout_width="222dp"
+        android:layout_height="222dp"
+        android:layout_below="@id/view_ble_con_status_line"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="50dp">
+
+        <com.timqi.sectorprogressview.ColorfulRingProgressView xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/colorful_ring_progress"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:bgColor="#FFFFFF"
+            app:fgColorEnd="#FF3399"
+            app:fgColorStart="#FF3399"
+            app:percent="0"
+            app:startAngle="0"
+            app:strokeWidth="10dp" />
+
+        <TextView
+            android:id="@+id/tv_batt_percent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="0%"
+            android:textSize="@dimen/txt_default_size"
+            android:textColor="@color/white"/>
+
+        <TextView
+            android:id="@+id/tv_batt_cap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            android:text="@string/txt_batt_cap"
+            android:textSize="20sp"
+            android:textColor="@color/white"/>
+
+        <TextView
+            android:id="@+id/tv_batt_volt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="80dp"
+            android:text="0.000V"
+            android:textSize="@dimen/txt_default_size"
+            android:textColor="@color/white"/>
+    </FrameLayout>
+
+    <LinearLayout
+        android:id="@+id/linearlayout_batt_info"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/framelayout"
+        android:layout_marginTop="50dp">
+
+        <TextView
+            android:id="@+id/tv_output_volt_title"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:id="@+id/tv_output_volt"
+            android:textSize="@dimen/txt_default_size"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"/>
+
+        <View
+            android:id="@+id/v0"
+            android:layout_width="match_parent"
+            android:background="#AAAAAA"
+            android:layout_height="0dp"/>
+
+        <TextView
+            android:id="@+id/tv_output_curt_title"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:id="@+id/tv_output_curt"
+            android:textSize="@dimen/txt_default_size"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"/>
+
+        <View
+            android:id="@+id/v1"
+            android:layout_width="match_parent"
+            android:background="#AAAAAA"
+            android:layout_height="0dp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

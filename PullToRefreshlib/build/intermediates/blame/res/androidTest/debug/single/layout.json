@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "H:\\Study\\Android\\Android_Studio\\Bluetooth\\Bluetooth_LE\\BlePullToScanClient2\\PullToRefreshlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "H:\\Study\\Android\\Android_Studio\\Bluetooth\\Bluetooth_LE\\BlePullToScanClient2\\PullToRefreshlib\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "H:\\Study\\Android\\Android_Studio\\Bluetooth\\Bluetooth_LE\\BlePullToScanClient1\\PullToRefreshlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "H:\\Study\\Android\\Android_Studio\\Bluetooth\\Bluetooth_LE\\BlePullToScanClient1\\PullToRefreshlib\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "H:\\Study\\Android\\Android_Studio\\Bluetooth\\Bluetooth_LE\\BlePullToScanClient1\\PullToRefreshlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "H:\\Study\\Android\\Android_Studio\\Bluetooth\\Bluetooth_LE\\BlePullToScanClient1\\PullToRefreshlib\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "H:\\Study\\Android\\Android_Studio\\Bluetooth\\Bluetooth_LE\\BlePullToScanClient2\\PullToRefreshlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "H:\\Study\\Android\\Android_Studio\\Bluetooth\\Bluetooth_LE\\BlePullToScanClient2\\PullToRefreshlib\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    }
+]

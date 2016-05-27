@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BLE PowerPack</string>
+    <string name="home_title">蓝牙设备</string>
+    <string name="txt_batt_cap">电池电压:</string>
+    <string name="txt_output_volt">输出电压:</string>
+    <string name="txt_output_curt">输出电流:</string>
+    <string name="service_toolbar_title">电源包信息</string>
+    <string name="btn_send">发送</string>
+</resources>

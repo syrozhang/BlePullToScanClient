@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "H:\\Study\\Android\\Android_Studio\\Bluetooth\\Bluetooth_LE\\BlePullToScanClient1\\PullToRefreshlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "H:\\Study\\Android\\Android_Studio\\Bluetooth\\Bluetooth_LE\\BlePullToScanClient1\\PullToRefreshlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "H:\\Study\\Android\\Android_Studio\\Bluetooth\\Bluetooth_LE\\BlePullToScanClient2\\PullToRefreshlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "H:\\Study\\Android\\Android_Studio\\Bluetooth\\Bluetooth_LE\\BlePullToScanClient2\\PullToRefreshlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "H:\\Study\\Android\\Android_Studio\\Bluetooth\\Bluetooth_LE\\BlePullToScanClient2\\PullToRefreshlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "H:\\Study\\Android\\Android_Studio\\Bluetooth\\Bluetooth_LE\\BlePullToScanClient2\\PullToRefreshlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "H:\\Study\\Android\\Android_Studio\\Bluetooth\\Bluetooth_LE\\BlePullToScanClient1\\PullToRefreshlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "H:\\Study\\Android\\Android_Studio\\Bluetooth\\Bluetooth_LE\\BlePullToScanClient1\\PullToRefreshlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    }
+]
